@@ -1,3 +1,6 @@
+# git log files
+*.log
+
 # Prerequisites
 *.d
 
